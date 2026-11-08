@@ -22,11 +22,11 @@
        <artifactId>maven-jar-plugin</artifactId>
        <version>3.4.2</version>
        <configuration>
-         <archieve>
+         <archive>
            <manifest>
              <mainClass>com.example.App</mainClass>
            </manifest>
-         </archeive>
+         </archive>
        </configuration>
      </plugin>
    </plugins>
